@@ -1,4 +1,4 @@
-ores = [0,0,0,0,0,0,0,0,0,0]
+Scores = [0,0,0,0,0,0,0,0,0,0]
 Questions = ["What is the process of reducing complexity to enable the creation of an efficient set of rules that can be programmed?",
             "Which subroutine doesn't return a value",
             "What is something that stays the same while a program is running",
